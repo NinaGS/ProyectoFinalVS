@@ -19,6 +19,7 @@
  - *Usar "bootstrap"*.
 - Párrafos en general
  - *Creación de párrafos sin lorem ipsum"*. 
+- Proponer nueva tipografía para logo Vida Sana.
  
 ##-Requisitos visuales
 
