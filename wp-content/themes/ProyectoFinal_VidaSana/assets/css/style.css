@@ -1,0 +1,295 @@
+<?php
+
+
+
+.logovidasana{
+    width: 30px;
+}
+
+body{
+    background-color:#666666;
+}
+
+.card-deck .card {
+    margin: 0px;
+}
+
+
+.vidasana{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 6vh;
+    color: white;
+}
+
+
+.salud{
+    width: 160px;
+}
+
+
+.icono{
+    width: 50px;
+}
+
+
+.navbar{
+
+    background-color: #666666;
+    color: white;
+}
+
+
+.jumbotron{
+    background-image: url("../img/vida.jpg");
+    height: 500px;
+    background-size: cover;
+    margin-bottom: 0px;
+    /**height: 800px;*/
+    margin-top: 20px;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 5;
+    color: black;
+    text-align: center;
+    padding: 80px;
+
+}
+.jumbotron::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: grey;
+    opacity: 0.4;
+
+  }
+
+.orgullo{
+    text-align: center;
+    font-size: 6vh;
+    padding-top: 80px;
+    color: white;
+}
+
+
+h3{
+    color: #666666;
+    margin: 60px 0px 0px 0px;
+    text-align: center;
+}
+
+
+h5{
+    color: #666666;
+    margin: 10px 0px 30px 20px;
+    text-align: center;
+}
+
+
+h6{
+    color: white;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+
+p{
+    color: #666666;
+}
+
+.lista{
+    text-align-last: left;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+
+}
+
+.dropdown-item{
+    background-color: #666666;
+}
+
+
+.mt-0{
+    color: #ffcc5c;
+    text-align: left;
+}
+
+.deportes{
+    background-color: #ffcc5c;
+    text-align: center;
+}
+
+.card-deportes{
+    background-color: #ffcc5c;
+}
+
+.card-title{
+    text-align: center;
+}
+
+
+.card-text{
+    text-align: center;
+}
+
+
+
+
+.fas{
+    margin-bottom: 30px;
+    font-size: 65px;
+    color: #666666;
+    text-align: center;
+}
+
+
+.noticias-title{
+    text-align: left;
+    color: white;
+}
+
+
+.fa-newspaper{
+    color: white;
+}
+
+
+.nutri{
+    background-color: #ffeead;
+    text-align: center;
+}
+
+
+.card-nutri{
+    background-color: #ffeead;
+    text-align: center;
+}
+
+
+.card{
+    border: 0px solid rgba(0,0,0,0);
+    border-radius: 0px;
+    padding-right: 20px;
+}
+
+
+.recetas{
+    text-align: center;
+    color: white;
+    background-color: #96ceb4;
+}
+
+
+.actividades{
+    background-color: #FF8782;
+    text-align: center;
+    margin-top: none;
+    color: black;
+}
+
+
+.btn-primary{
+    border-color: #ffcc5c;
+    background-color:#ffcc5c;
+}
+
+
+.btn-primary:hover{
+    background-color: black;
+    border-color: black;
+
+}
+
+#sección-contacto{
+    background-color: #666666;
+}
+
+
+.fondo-footer{
+    background-color: #666666;
+}
+
+
+.card-footer{
+    text-align: center;
+    background-color: #666666;
+}
+
+
+.container-contacto{
+    width: 50%;
+}
+
+
+.contacto{
+    color: white;
+    text-align: center;
+}
+
+
+.mailto{
+    color: white;
+    text-decoration: none;
+}
+
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.card-group>.card {
+    margin-bottom: 0px;
+}
+
+
+.fa-mobile-alt{
+    font-size: 20px;
+    color: white;
+}
+
+.fab{
+    font-size: 30px;
+    margin-right: 60px;
+    position: bottom;
+    color: white;
+}
+
+.fab:hover{
+    color: black;
+}
+
+
+.mr-3{
+    width:  100px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
+}
+
+
+.row{
+    background-color: ;
+    color: white;
+}
+
+
+.col{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+.colores{
+    padding: bottom:20px;
+}
